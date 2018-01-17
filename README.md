@@ -1,6 +1,7 @@
 # esx_hospital
-Original script: https://github.com/Boaro/hospital_fm
-https://forum.fivem.net/t/release-hospital-pay-for-healing-2-2/25288
+Original script: 
+- https://github.com/Boaro/hospital_fm
+- https://forum.fivem.net/t/release-hospital-pay-for-healing-2-2/25288
 
 
 ## DISCORD
