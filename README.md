@@ -9,7 +9,7 @@ https://discord.me/fivem_esx
 
 ## SCREENSHOT
 
-![screenshot](https://i.imgur.com/cYLb9zg.jpg)
+![screenshot](https://i.imgur.com/ZO4SQGH.jpg) - Outdated screenshot, only uses pNotify now.
 
 ## DESCRIPTION
 
