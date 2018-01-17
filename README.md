@@ -34,7 +34,7 @@ Go to any hospital and see the doctor to get healed.
 **3) Using git**
 
 ```
-cd resources
+cd resources/[esx]/
 git clone https://github.com/ddh3/esx_hospital esx_hospital
 ```
 
