@@ -17,8 +17,8 @@ Go to any hospital and see the doctor to get healed.
 
 ## To do
 
--Make a config file
--Change the markers 
+- Make a config file
+- Change the markers 
 
 ## Requirements
 
