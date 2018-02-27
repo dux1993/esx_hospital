@@ -95,7 +95,7 @@ Citizen.CreateThread(function()
                 timer = true
             end
             if treatment == true and timer == true and (GetDistanceBetweenCoords(GetEntityCoords(GetPlayerPed(-1)), item.x, item.y, item.z, true) <= 2) then
-                TriggerServerEvent('hospital:price')
+                TriggerServerEvent('esx_hospital:price')
                 SetEntityHealth(GetPlayerPed(-1), 200)
                 TriggerEvent("pNotify:SendNotification", {
                     text = "<b style = 'color:white'>The doctor treated you.</b>",
